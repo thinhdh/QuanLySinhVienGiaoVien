@@ -1,0 +1,2 @@
+G:\Study\HK6_Thuc_Tap_Nhom\Exc\QLSV\QLSV_GV\QLSV_GV\bin\Debug\QLSV_GV.exe.config
+G:\Study\HK6_Thuc_Tap_Nhom\Exc\QLSV\QuanLySinhVienGiaoVien\QLSV_GV\QLSV_GV\bin\Debug\QLSV_GV.exe.config
